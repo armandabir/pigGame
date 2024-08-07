@@ -9,7 +9,7 @@ const PLAYERS={
   "player2":"player2"
 }
 
-// check game status
+// check game status false when end
 let gameStatus=true
 
 let gameBoard={
